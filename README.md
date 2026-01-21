@@ -29,3 +29,37 @@ git clone https://github.com/C-Trass/SymPhoX.git
 cd SymPhoX
 pip install -r requirements.txt
 
+---
+
+## Who is this for?
+SymPhoX is intended for:
+- FLIM and TCSPC users working with PicoQuant systems
+- Researchers developing custom lifetime or photon-counting pipelines
+- Users who want transparency and reproducibility beyond GUI tools
+
+---
+
+## Citation
+If you use SymPhoX in academic work, please cite:
+
+Dr Conor A. Treacy, SymPhoX: Python tools for SymPhoTime 64 TCSPC data analysis,
+Biomedical Optics Express, forthcoming.
+
+A DOI will be added here once the associated methods paper is published.
+
+Until then, you may cite this repository directly using the GitHub URL
+and the software version.
+
+---
+
+## License
+
+This project is released under the MIT License.
+You are free to use, modify, and distribute the code with attribution.
+
+---
+
+## Contact
+
+Maintained by Conor Treacy
+📫 Contact: [LinkedIn](https://www.linkedin.com/in/conor-treacy-phd-2aa7406a/) | [Email](mailto:conor.treacy@brunel.ac.uk)
