@@ -25,7 +25,7 @@ workflows outside proprietary software.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/SymPhoX.git
+git clone https://github.com/C-Trass/SymPhoX.git
 cd SymPhoX
 pip install -r requirements.txt
 
